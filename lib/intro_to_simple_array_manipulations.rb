@@ -3,7 +3,7 @@ def using_push(array, string)
 end
 
 def using_unshift(array, string)
-  using_unshift = ["harlem", "bronx", "soho", "brooklyn"]
+ 
   using_unshift.unshift("Staten Island")
 end
 
